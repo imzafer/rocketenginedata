@@ -65,7 +65,7 @@ function calculateResults() {
         <h2>Ambient Conditions:</h2>
         <p>The Ambient Pressure [Pa] : ${P3.toFixed(3)}</p>
         <p>The Ambient Temperature [K] : ${T3.toFixed(3)}</p>
-        <p>Chamber to Exit Pressure Ratio : ${P0_P3.toFixed(3)}</p>0
+        <p>Chamber to Exit Pressure Ratio : ${P0_P3.toFixed(3)}</p>
         <p>Expansion Ratio (Epsilon): ${epsilon}</p>
         <p>Ideal Exit Velocity (m/s): ${v2}</p>
         <p>Total Mass Flow Rate (Kg/s): ${m_dot}</p>
